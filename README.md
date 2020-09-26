@@ -21,12 +21,12 @@ Foram criados 5 endpoints, são eles:
 ## Exibe o produto com maior desconto.
 ### http://localhost:8080/api/produto/maiorDesconto
 
-##Exibe o produto melhor avaliado.
+## Exibe o produto melhor avaliado.
 ### http://localhost:8080/api/produto/melhorAvaliado
 
-##Exibe o produto tem apresenta o menor preço.
+## Exibe o produto tem apresenta o menor preço.
 ### http://localhost:8080/api/produto/menorPreco
 
-##Lista SOMENTE os produtos que apresenta respectivamente: Menor preço, mais popular e com maior desconto.
+## Lista SOMENTE os produtos que apresenta respectivamente: Menor preço, mais popular e com maior desconto.
 ### http://localhost:8080/api/produtos
 
