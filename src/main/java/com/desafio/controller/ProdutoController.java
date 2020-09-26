@@ -18,7 +18,7 @@ public class ProdutoController {
 	private ProdutoService produtoService;
 	
 	@GetMapping("/salvarProdutos")
-	private String executarJsoup() {
+	private String salvarProdutos() {
 		try {
 			produtoService.salvarProdutosViaJsoup();
 		} catch(Exception e) {
