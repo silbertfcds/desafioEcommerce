@@ -37,3 +37,5 @@ Foram criados 5 endpoints, são eles:
 
 
 Com o banco de dados criado basta executar primeiro o endpoint **http://localhost:8080/api/salvarProdutos** para o JSoup capturar os produtos e salvar no banco.
+
+Foi criado um arquivo chamado **Inserts_do_banco_criado.sql** na pasta docs somente com informação dos produtos que foram criados no momento do teste.
